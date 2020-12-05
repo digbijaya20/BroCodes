@@ -15,7 +15,7 @@ const validusers = [{
     password:'mrigank'
 },
 { 
-    username:'manoj',
+    username:'manj',
     password:'mrigank'
 },
 { 
